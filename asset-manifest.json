@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/charishma184507/cicdfrontendreview.git/static/css/main.41254545.css",
-    "main.js": "/charishma184507/cicdfrontendreview.git/static/js/main.49e0be81.js",
-    "index.html": "/charishma184507/cicdfrontendreview.git/index.html",
-    "main.41254545.css.map": "/charishma184507/cicdfrontendreview.git/static/css/main.41254545.css.map",
-    "main.49e0be81.js.map": "/charishma184507/cicdfrontendreview.git/static/js/main.49e0be81.js.map"
+    "main.css": "/charishma184507/cicdfrontendreview/static/css/main.41254545.css",
+    "main.js": "/charishma184507/cicdfrontendreview/static/js/main.49e0be81.js",
+    "index.html": "/charishma184507/cicdfrontendreview/index.html",
+    "main.41254545.css.map": "/charishma184507/cicdfrontendreview/static/css/main.41254545.css.map",
+    "main.49e0be81.js.map": "/charishma184507/cicdfrontendreview/static/js/main.49e0be81.js.map"
   },
   "entrypoints": [
     "static/css/main.41254545.css",
