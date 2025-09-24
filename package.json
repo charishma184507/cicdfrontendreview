@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/charishma184507/cicdfrontendreview",
+  "homepage": "https://charishma184507.github.io/cicdfrontendreview",
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^7.0.1",
     "@fortawesome/react-fontawesome": "^3.0.2",
