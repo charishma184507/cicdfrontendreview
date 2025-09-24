@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cicdfrontendreview/static/css/main.f4986beb.css",
-    "main.js": "/cicdfrontendreview/static/js/main.c5b798a1.js",
+    "main.js": "/cicdfrontendreview/static/js/main.ccfb8c3c.js",
     "index.html": "/cicdfrontendreview/index.html",
     "main.f4986beb.css.map": "/cicdfrontendreview/static/css/main.f4986beb.css.map",
-    "main.c5b798a1.js.map": "/cicdfrontendreview/static/js/main.c5b798a1.js.map"
+    "main.ccfb8c3c.js.map": "/cicdfrontendreview/static/js/main.ccfb8c3c.js.map"
   },
   "entrypoints": [
     "static/css/main.f4986beb.css",
-    "static/js/main.c5b798a1.js"
+    "static/js/main.ccfb8c3c.js"
   ]
 }
