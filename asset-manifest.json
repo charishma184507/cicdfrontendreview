@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/charishma184507/cicdfrontendreview/static/css/main.41254545.css",
-    "main.js": "/charishma184507/cicdfrontendreview/static/js/main.49e0be81.js",
+    "main.js": "/charishma184507/cicdfrontendreview/static/js/main.c9b33206.js",
     "index.html": "/charishma184507/cicdfrontendreview/index.html",
     "main.41254545.css.map": "/charishma184507/cicdfrontendreview/static/css/main.41254545.css.map",
-    "main.49e0be81.js.map": "/charishma184507/cicdfrontendreview/static/js/main.49e0be81.js.map"
+    "main.c9b33206.js.map": "/charishma184507/cicdfrontendreview/static/js/main.c9b33206.js.map"
   },
   "entrypoints": [
     "static/css/main.41254545.css",
-    "static/js/main.49e0be81.js"
+    "static/js/main.c9b33206.js"
   ]
 }
